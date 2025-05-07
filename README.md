@@ -1,4 +1,4 @@
-# Real-Time Facial Analysis
+## Real-Time Facial Analysis
 This project performs real-time facial analysis, estimating age, race, and distance from the camera.
 
 # Features
@@ -16,3 +16,9 @@ This project performs real-time facial analysis, estimating age, race, and dista
 2. It detects faces using MediaPipe.
 3. It estimates the age and race of the detected face using deep learning models.
 4. It calculates the distance from the camera based on the face’s size.
+
+# How to run 
+1. Clone or download the repository to your local machine.
+2. Install the required dependencies by running the pip install command.
+3. Run the face_detection.py script.
+4. Make sure your webcam is working and give the script access to it.
